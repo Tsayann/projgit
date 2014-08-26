@@ -1,1 +1,2 @@
 chaine de caractere
+recuperation
