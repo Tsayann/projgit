@@ -1,2 +1,0 @@
-chaine de caractere
-recuperation
